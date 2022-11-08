@@ -24,7 +24,7 @@
 
 ##  Vistas de la interfaz
 -   Conversor de divisas<br>
-<img src="/lib/conversor_monedas.jpeg">
+<img src="lib/conversor_monedas.jpeg">
 
 
 ##  Créditos 
