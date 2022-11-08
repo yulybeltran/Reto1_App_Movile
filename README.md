@@ -6,7 +6,7 @@
 ***
 
 ##  Descripción del proyecto
-<p align="justify">Esta aplicacion se realiza con fines educativos es un conversor de divisas creado con FLUTTER</p>
+<p align="justify">Esta aplicacion se realiza con fines educativos, es un conversor de divisas creado con FLUTTER</p>
 
 
 
@@ -15,6 +15,8 @@
 ##  Técnologías, librerías o herramientas que se usaron:
 - Flutter
 - get: ^4.6.5
+- C++ 
+- Dart
 
 *******
 
@@ -24,7 +26,7 @@
 
 ##  Vistas de la interfaz
 -   Conversor de divisas<br>
-<img src="https://drive.google.com/file/d/1usBehrOWzfZs96HjzgHGRkCutZY39Y49/view?usp=sharing">
+<img src="/assets/conversor_monedad.jpeg">
 
 
 ##  Créditos 
