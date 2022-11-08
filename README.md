@@ -26,12 +26,11 @@
 
 ##  Vistas de la interfaz
 -   Conversor de divisas<br>
-<img src="/conversor_monedas.png">
-<img src="assets/conversor_monedas.png">
+
 
 - [Clic aquí para ver la imagen](https://drive.google.com/file/d/1usBehrOWzfZs96HjzgHGRkCutZY39Y49/view?usp=sharing)
 
-![alt text](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/conversor_monedas.png?raw=true)
+<!-- ![alt text](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/conversor_monedas.png?raw=true) -->
 
 
 
