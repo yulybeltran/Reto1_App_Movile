@@ -30,7 +30,7 @@
 
 - [Clic aquí para ver la imagen](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/assets/coversor_monedas.png)
 
-<!-- ![alt text](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/conversor_monedas.png?raw=true) -->
+![alt text](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/assets/coversor_monedas.png) 
 
 
 
