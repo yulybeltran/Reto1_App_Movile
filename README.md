@@ -28,7 +28,7 @@
 -   Conversor de divisas<br>
 
 
-- [Clic aquí para ver la imagen](https://drive.google.com/file/d/1usBehrOWzfZs96HjzgHGRkCutZY39Y49/view?usp=sharing)
+- [Clic aquí para ver la imagen](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/assets/coversor_monedas.png)
 
 <!-- ![alt text](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/conversor_monedas.png?raw=true) -->
 
@@ -38,7 +38,7 @@
 ### Dearrollado por:
 -   <h3>Yuly Marcela Beltrán</h3>
 -   <h3>Katherine Moreno Ordoñez</h3>
--   <h3> Elia Amira López Olivera </h3>
+-   <h3>Elia Amira López Olivera </h3>
 -   <h3>Alexander Ceballos Quintero</h3>
 -   <h3>Juan Sebastián Guzmán</h3>
 
