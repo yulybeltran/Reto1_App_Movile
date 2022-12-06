@@ -28,7 +28,6 @@
 -   Conversor de divisas<br>
 
 
-- [Clic aquí para ver la imagen](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/assets/coversor_monedas.png)
 
 ![alt text](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/assets/coversor_monedas.png) 
 
